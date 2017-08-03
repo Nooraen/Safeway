@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<project name="predefined" default="run">
+
+<property file="build.property" />
+
+<target name="run">
+<echo>welcome to info block</echo>
+
+<echo>to known full location of build file${ant.file}</echo>
+<echo>to known ant version ${ant.version}</echo>
+<echo>to know the base dir ${basedir}</echo>
+<echo>to know the java version ${ant.java.version}</echo>
+<echo>to know the project name ${ant.project.name}</echo>
+<echo>to know the default project name of ant ${ant.project.default-target}</echo>
+<echo>to know the invoked target of ant ${ant.project.invoked-targets}</echo>
+<echo>to know the core libraries of ant ${ant.core.lib}</echo>
+<echo>to know the home of ant ${ant.home}</echo>
+<echo>to know the library of ant ${ant.library.dir}</echo>
+
+</target>
+</project>
