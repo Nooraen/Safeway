@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<project name="runjob" default="run">
+<target name="run">
+<echo>welcome to run block</echo>
+</target>
+</project>

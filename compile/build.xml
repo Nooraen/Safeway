@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<project name="compilejob" default="compile">
+<target name="compile">
+<echo>welcome to compile block</echo>
+</target>
+</project>

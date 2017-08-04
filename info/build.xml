@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<project name="infojob" default="info">
+<target name="info">
+<echo>welcome to info block</echo>
+</target>
+</project>

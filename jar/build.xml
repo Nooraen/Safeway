@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<project name="jarjob" default="jar">
+<target name="jar">
+<echo>welcome to jar block</echo>
+</target>
+</project>

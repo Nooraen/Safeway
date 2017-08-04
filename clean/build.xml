@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<project name="cleanjob" default="clean">
+<target name="clean">
+<echo>welcome to clean block</echo>
+</target>
+</project>
